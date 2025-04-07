@@ -12,3 +12,7 @@
 // You can read more here:
 // https://on.cypress.io/configuration
 // ***********************************************************
+Cypress.Commands.add('Login', () => {
+
+    //Qualquer trecho de código
+} )
